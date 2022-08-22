@@ -1,0 +1,11 @@
+PS C:\Users\ankita.kavathekar\Documents\GitHub> g++ student.c   
+PS C:\Users\ankita.kavathekar\Documents\GitHub> .\a.exe      
+Enter details of student: 
+Name ?: Ankita
+Roll No ?: 25
+Percentage ?: 80.30
+
+Entered details: 
+Name:Ankita
+RollNo: 25
+Percentage: 80.30
